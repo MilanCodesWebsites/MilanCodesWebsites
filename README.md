@@ -65,4 +65,4 @@ i like my code type-safe and my design minimal
 
 ### 🔗 socials
 
-[![X](https://img.shields.io/badge/@princecodes0-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/onrooleyy)
+[![X](https://img.shields.io/badge/@onrooleyy-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/onrooleyy)
