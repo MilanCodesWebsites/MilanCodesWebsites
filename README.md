@@ -58,7 +58,7 @@ i like my code type-safe and my design minimal
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onrooleyy&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanCodesWebsites&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
