@@ -53,8 +53,8 @@ i like my code type-safe and my design minimal
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onrooleyy&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=onrooleyy&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MilanCodesWebsites&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MilanCodesWebsites&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="450" />
 </p>
 
 <p align="center">
@@ -65,4 +65,4 @@ i like my code type-safe and my design minimal
 
 ### 🔗 socials
 
-[![X](https://img.shields.io/badge/@princecodes0-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/princecodes0)
+[![X](https://img.shields.io/badge/@princecodes0-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/onrooleyy)
